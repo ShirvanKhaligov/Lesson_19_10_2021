@@ -1,0 +1,10 @@
+Task:
+
+1)Void funksiya yazılacaq.Həmin funksiya geri dəyər olaraq daxil edilən edilən ədədin  verilən faiz dəyərini tapacaq.
+2)verilən ədədlərin sadə olub olmadığı yoxlayan funksiya yazılmalıdır.input=> 3 output=> output 3 sadedir
+3) verilən ədədin istənilən ədəddən kiçik olub olmadıgini yoxlayan funksiya yazilmalidir. input=>5 output=> 5 kicikdir 10
+
+Links:
+
+https://www.w3schools.com/js/default.asp
+https://www.w3schools.com/js/js_intro.asp
